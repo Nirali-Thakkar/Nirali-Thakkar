@@ -1,6 +1,4 @@
+Welcome to my GitHub profile!
 I am Nirali Thakkar ....
-Currently, I am a student in K.S School of Business Management, Ahmedabad, Gujarat pursuing M.Sc(CA-IT) In second year. 
- I am 19 year old DBMS enthusiast, Programmer, Erratic Web Developer, Content Writer living in Ahmedabad, India.
- I use a creative apporach to solve problem also I am always energetic and eager to learn skills , and also full of innovative ideas.
- I am always excited to work on some awesome projects.
--
+I'm currently pursuing a Master's degree in Information Technology (MScIT) at  Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gujarat. Here, you'll find a collection of projects and contributions reflecting my passion for IT and my journey as a graduate student. From coursework and research projects to personal explorations, I aim to showcase my technical skills, problem-solving abilities, and dedication to continuous learning. I'm enthusiastic about collaborating with fellow developers and contributing to the open-source community. Let's connect and explore the exciting world of IT together!
+
